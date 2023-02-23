@@ -1,12 +1,20 @@
 h1 { color: blue;
+    background-color: beige;
     text-align: center;
 }
 h2 { color: green;
 font-style: italic;
+background-color: aqua;
 text-align: center;
 }
-p {
+p {color: blueviolet;
 font-family: sans-serif;
+;
 }
-ul{ line-height: 40px;
+ul {
+     line-height: 40px;
+     font-style: italic;
+}
+ol { 
+    line-height: 40px;
 }
